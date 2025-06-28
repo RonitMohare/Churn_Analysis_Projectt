@@ -30,9 +30,8 @@ This project provides a complete solution for analyzing and predicting customer 
 
 ### 2. Churn Prediction with Machine Learning
 - Applied label encoding to categorical variables
-- Balanced data using SMOTE to address class imbalance
 - Trained a **Random Forest Classifier** to predict churn
-- Achieved ~84% model accuracy
+- Achieved ~81% model accuracy
 - Output included a list of **378 high-risk churners** with key metrics like revenue, tenure, and referrals
 
 ### 3. Dashboard Visualization in Power BI
@@ -67,9 +66,4 @@ This project provides a complete solution for analyzing and predicting customer 
 
 Ideal for telecom, subscription-based services, and customer-facing businesses aiming to reduce churn and improve retention using predictive analytics.
 
----
 
-## 🧑‍💼 Created By
-
-**Your Name**  
-B.Tech Computer Engineering | Data & AI Enthusiast
